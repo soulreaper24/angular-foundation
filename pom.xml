@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-foundation</artifactId>
-    <version>0.3.0</version>
+    <version>0.3.1-SNAPSHOT</version>
     <name>Angular Foundation</name>
     <description>WebJar for Angular Foundation</description>
     <url>http://webjars.org</url>
@@ -55,7 +55,7 @@
         <url>http://github.com/webjars/angular-foundation</url>
         <connection>scm:git:https://github.com/webjars/angular-foundation.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-foundation.git</developerConnection>
-        <tag>angular-foundation-0.3.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
